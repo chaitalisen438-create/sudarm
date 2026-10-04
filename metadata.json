@@ -1,0 +1,6 @@
+{
+  "name": "Sundaram - Premium Bengali Blouses & Kurtis",
+  "description": "Discover elegant sleeveless blouses and beautiful kurtis inspired by modern Bengali fashion. Crafted with traditional inspiration and modern expression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Bodoni Moda", serif;
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+  --color-lavender: #B79ACF;
+  --color-plum: #4B315C;
+  --color-ivory: #FCF9F5;
+  --color-rose: #D9A6B8;
+  --color-gold: #C7A86B;
+}
+
+/* Custom styling for a luxury, buttery feel */
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Custom scrollbar to keep it looking clean and refined */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FCF9F5;
+}
+::-webkit-scrollbar-thumb {
+  background: #C7A86B;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #4B315C;
+}
